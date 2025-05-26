@@ -1,0 +1,20 @@
+{
+  "heroTitle": "Willkommen beim Brauchtumsverein Musterstadt",
+  "heroSubtitle": "Wir pflegen Traditionen und fördern Gemeinschaft.",
+  "aboutText": "Der Brauchtumsverein Musterstadt wurde 1920 gegründet und widmet sich der Pflege lokaler Traditionen, wie Trachtenfeste und kulturelle Veranstaltungen.",
+  "contactText": "Kontaktieren Sie uns unter info@brauchtumsverein-musterstadt.de oder rufen Sie uns an: +49 123 456789.",
+  "events": [
+    {
+      "title": "Jahresfest 2025",
+      "date": "2025-07-15",
+      "description": "Unser jährliches Trachtenfest mit Musik, Tanz und traditionellem Essen.",
+      "image": "/assets/images/uploads/fest.jpg"
+    },
+    {
+      "title": "Adventsfeier",
+      "date": "2025-12-10",
+      "description": "Eine gemütliche Feier zur Adventszeit mit Glühwein und Liedern.",
+      "image": ""
+    }
+  ]
+}
